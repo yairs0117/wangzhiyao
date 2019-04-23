@@ -19,7 +19,6 @@ layout: default
         {% for post in site.categories.blog %}
         <li>
           <a href="/wangzhiyao/{{ post.url }}" class="title">{{ post.title }}</a>
-          {{post.url}}
           <div class="title-desc">{{ post.description }}</div>
         </li>
         {% endfor %}
