@@ -153,7 +153,7 @@ a:hover {
 }
 a.external {
   padding-right: 13px;
-  background: url("/images/icons.gif") no-repeat right 1px;
+  background: url("/wangzhiyao/images/icons.gif") no-repeat right 1px;
 }
 a.external:hover {
   background-position: right -15px;
